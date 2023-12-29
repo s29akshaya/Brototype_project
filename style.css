@@ -439,31 +439,6 @@ footer {
 }
 
 
-@media only screen and (max-width: 600px) {
-    .mydata {
-        margin-left: 5%; 
-    }
-}
-
-body {
-    font-size: 16px;
-}
-
-@media only screen and (max-width: 600px) {
-    body {
-        font-size: 14px;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    nav ul {
-        display: none; /* Hide the regular menu on small screens */
-    }
-
-    nav .menu-button {
-        display: block; /* Show a menu button for small screens */
-    }
-}
 
 
 
